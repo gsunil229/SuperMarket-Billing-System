@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Sunil Kumar Gupta
+ * @author Sunil Kumar Gupta / shambhu shah
  */
 public class AdminLogin extends javax.swing.JFrame {
 
